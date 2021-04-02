@@ -1,0 +1,23 @@
+{
+  "name": "lzw-book",
+  "version": "1.0.0",
+  "description": "介绍几部动漫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baicie/lzw-book.git"
+  },
+  "keywords": [],
+  "author": "baicie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baicie/lzw-book/issues"
+  },
+  "homepage": "https://github.com/baicie/lzw-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
